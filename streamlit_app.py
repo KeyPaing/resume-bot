@@ -7,9 +7,9 @@ st.set_page_config(page_icon="👨‍💼", layout="wide",
                    page_title="John Doe's Resume Bot")
 
 
-st.subheader("👨‍💼📊📈📁 John Doe's Interactive Resume")
+st.subheader("Key's Interactive Resume")
 st.write(
-    "Welcome to John Doe's personal chat bot to answer John's previous experiences and his skillsets. Ask away what you want to know!"
+    "Welcome to Key's personal chat bot to answer Key's previous experiences and his skillsets. Ask away what you want to know!"
 )
 
 client = OpenAI(

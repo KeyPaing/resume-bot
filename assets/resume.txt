@@ -1,142 +1,64 @@
-John Doe
-Software Engineer
-📍 123 Tech Street, San Francisco, CA 94107
-☎️ (123) 456-7890
-✉️ john.doe@email.com
-LinkedIn | GitHub
-Visa Status: Full working rights in the US without Visa sponsorship
+CONTACT
 
-Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+SKILLS
 
-Technical Skills
+LANGUAGES
+0631545400
+pyaephyopaing6303@gmail.
+com
+Chiang Rai, Thailand
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
+Available upon request
+Teamwork
+UI Design with Figma
+(Java, Python, JavaScript,
+PHP, Flutter)
+HTML, CSS, Bootstrap
+Database ( Firebase )
+LLM
 
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
+Myanmar (Native)
+English (Advanced)
+Chinese (Intermediate)
+Thai (Basic)
+Japanese (N4)
 
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
+PYAE PHYO PAING
+SOFTWARE ENGINEERING STUDENT
 
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
+WORK EXPERIENCE
 
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
+EDUCATION
+PROFILE
+I am seeking a position of AI Engineer intern where I can utilize my
+academic knowledge and apply my knowledge in ML frameworks like
+Tensorflow, PyTorch, and Scikit-learn to real-world projects. I am
 
-Professional Experience
+passionate about developing and refining intelligent systems such as AI-
+powered chatbots. Looking forward to collaborate with expert AI
 
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
+engineers and have a chance of gaining hand-on experience in AI models
+development in a dynamic team environment.
 
-    Architected and developed scalable microservices, improving application performance by 40%.
+LLM-Powered Code Refactoring AI 2024 - PRESENT
 
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
+2023-2024 TEACHING ASSISTANT
+Developing an LLM-powered AI to be capable of analyzing and
+refactoring code.
+Integrated with LangChain, Gemini LLM model, and GitHub API to
+enhance the understanding of GitHub repositories.
+Implemented the RAG technique to improve the inference of the LLM
+model.
+Worked the UI with the Streamlit.
 
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
+Assisted in teaching Java Object Oriented Design Program, helping
+students to understand their lab assignments.
+Collaborated with professors and students to improve course delivery
+and optimize learning outcomes.
 
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
-
-    Conducted technical interviews and mentored junior engineers to foster team growth.
-
-Key Achievements:
-
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
-
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
-
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
-
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
-
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
-
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
-
-    Collaborated with designers and product managers to deliver user-focused solutions.
-
-Key Achievements:
-
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
-
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
-
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
-
-    Assisted in developing responsive web applications using React and Node.js.
-
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
-
-    Optimized database queries and contributed to schema design for improved performance.
-
-Key Achievements:
-
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
-
-Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
-
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
-
-    GPA: 3.8
-
-Certifications
-
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
-
-Projects
-
-    E-Commerce Platform (GitHub)
-    Built a full-stack e-commerce website featuring real-time product filtering, user authentication, and payment integration.
-
-    Task Management App (GitHub)
-    Developed a collaborative task management app with React front-end and Node.js back-end.
-
-    Real-Time Chat Application
-    Designed a secure and scalable chat application using WebSocket and Firebase, enabling real-time communication for users.
-
-    IoT Home Automation System
-    Created an IoT-based system to monitor and control home appliances using Python and Raspberry Pi.
-
-Languages
-
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
-
-Hobbies & Interests
-
-    Contributing to open-source projects
-
-    Exploring AI and machine learning innovations
-
-    Mentoring aspiring developers
-
-    Hiking and outdoor photography
-
-    Playing chess and participating in local tournaments
-
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
+Bachelor of Software Engineering 2023 - present
+School of Applied Digital Technology | Mae Fah
+Luang University
+GPA: 3.79 / 4.0
 
 
