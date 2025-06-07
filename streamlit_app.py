@@ -4,7 +4,7 @@ from typing import Generator
 
 
 st.set_page_config(page_icon="👨‍💼", layout="wide",
-                   page_title="John Doe's Resume Bot")
+                   page_title="Pyae Phyo Paing's Resume Bot")
 
 
 st.subheader("Key's Interactive Resume")
